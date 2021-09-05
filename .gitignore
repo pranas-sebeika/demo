@@ -1,0 +1,4 @@
+.idea
+/target/
+/build/
+/selenide-junit.iml
