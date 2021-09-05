@@ -89,4 +89,5 @@ public class Example {
     $$(".js-results .result").shouldHave(sizeGreaterThan(5));
     $(".js-results .result").shouldHave(text("selenide.org"));
   }
+  
 }
